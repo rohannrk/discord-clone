@@ -97,4 +97,4 @@ const MemberIdPage = async ({
    );
 }
  
-export default MemberIdPag
+export default MemberIdPage;
